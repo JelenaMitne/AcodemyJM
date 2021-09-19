@@ -124,10 +124,7 @@ public class FirstHomework {
 
         boolean isNegativeValue = false;
         System.out.println(isNegativeValue);
-
-        boolean isCrawlingYourPhone = true;
-        System.out.println(isCrawlingYourPhone);
-
+        
         boolean isPassedRegistration = false;
         System.out.println(isPassedRegistration);
 
